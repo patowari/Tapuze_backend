@@ -1,0 +1,5 @@
+{
+  "name": "AI Math Homework Grader",
+  "description": "Upload a picture of your handwritten Hebrew math homework, and our AI assistant will analyze it, provide a grade, and give you feedback on your work.",
+  "requestFramePermissions": []
+}
