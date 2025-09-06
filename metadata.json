@@ -1,0 +1,5 @@
+{
+  "name": "AI Math Homework Grader",
+  "description": "An application for teachers to create classrooms and assignments, and for students to submit handwritten Hebrew math homework. Teachers can leverage Gemini AI to get grading assistance, which provides detailed feedback and identifies errors in submissions.",
+  "requestFramePermissions": []
+}
