@@ -9,7 +9,7 @@ const { gradeHomework } = require('./geminiService');
 const { convertPdfToImage } = require('./pdfConverter');
 
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 const DB_PATH = path.join(__dirname, 'db.json');
 
 // Middleware
